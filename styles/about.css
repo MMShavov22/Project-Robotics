@@ -18,11 +18,9 @@ body {
   margin: 100px;
   background-color: lightgray;
   height: 650px;
-  width: 500px;
+  width: 600px;
   border-radius: 7%;
   border: 3px solid black;
-  font-size:medium;
-  
   vertical-align: middle;
   line-height: 50px;
 }
@@ -49,7 +47,7 @@ body {
 
 .navbar {
   display: flex;
-  justify-content: left; 
+  justify-content: left; /* Center the navbar */
   width: 100%;
   text-align: left;
 }
