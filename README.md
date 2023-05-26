@@ -6,12 +6,11 @@
 <br>
 
 ## Topic
-A math game in which you'll have to use bitwise operations to reach the answer.
+A site related to Robotics.
 
 ## Used technologies
 
-- <img src="![image](https://github.com/MMShavov22/Project-Robotics/assets/132456989/89865bb5-5564-4f1b-b7b0-0bc44444c878)
-" width="15" height="15"> git <br>
+- <img src="[![image](https://github.com/MMShavov22/Project-Robotics/assets/132456989/89865bb5-5564-4f1b-b7b0-0bc44444c878)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png)" width="15" height="15"> git <br>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="15" height="15"> CSS 3 <br>
 <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="15" height="15"> HTML 5 <br>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="15" height="15"> Microsoft Excel <br>
@@ -27,4 +26,4 @@ A math game in which you'll have to use bitwise operations to reach the answer.
    
 - <a href="https://github.com/KKIvanov22"> Kaloyan Ivanov (Frontend developer) </a><br>
   
-- <a href="https://github.com/DKrKostadinov22"> Daniel Kostadinov (Fronted developer) </a><br>
+- <a href="https://github.com/DKrKostadinov22"> Daniel Kostadinov (Frontend developer) </a><br>
