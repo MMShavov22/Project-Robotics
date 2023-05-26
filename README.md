@@ -1,7 +1,7 @@
 <h1 align="center"> The Bots </h1>
 <br>
 <p align="center">
-<!-- Logo -->
+<img src="documentation/logo.png" alt="logo" height="500" width="500""> 
 </p>
 <br>
 
