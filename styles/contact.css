@@ -1,14 +1,16 @@
-#grad1 {
-    height: 200px;
-    background-color: red; 
-    background-image: linear-gradient(to right, gray,white);
-  }
-
+body{
+    background-color: rgb(145, 127, 127);
+}
+h1{
+    text-align: center;
+    font-size: 400%;
+}
   .navbar {
     display: flex;
     justify-content: left; 
     width: 100%;
     text-align: left;
+    
   }
   .navbar a {
     font-size: 26px;
@@ -66,3 +68,33 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  .card{
+   
+  height: 35vh;
+  width: 30vh;
+  background-image: linear-gradient(to bottom, rgb(136, 136, 136), gray ,gray );
+ justify-content: center;
+  margin: 150px;
+  float: left;
+  outline-style:solid;
+  outline-width: 5px;
+  outline-color: rgb(124, 124, 124);
+  vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+  }
+  img{
+    height: 18vh;
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .caption {
+    display: block;
+}
+button{
+    background-color:  aliceblue;
+}
