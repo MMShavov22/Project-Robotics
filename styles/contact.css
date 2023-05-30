@@ -93,6 +93,7 @@ h1{
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    
   }
   .caption {
     display: block;
@@ -103,11 +104,14 @@ button{
 #pic1{
     height: 12vh;
     width: 5vw;
+    padding: 10px;
 }
 form{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    
+}
+.card:not(.pic):hover {
+  transform: scale(1.4); 
 }
