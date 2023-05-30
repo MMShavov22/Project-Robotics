@@ -71,7 +71,7 @@ h1{
 
   .card{
    
-  height: 35vh;
+  height: 45vh;
   width: 30vh;
   background-image: linear-gradient(to bottom, rgb(136, 136, 136), gray ,gray );
  justify-content: center;
@@ -84,8 +84,10 @@ h1{
     display: inline-block;
     text-align: center;
     align-items: center;
+   
+    
   }
-  img{
+  .pic{
     height: 18vh;
     display: block;
     width: 50%;
@@ -97,4 +99,15 @@ h1{
 }
 button{
     background-color:  aliceblue;
+}
+#pic1{
+    height: 12vh;
+    width: 5vw;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
 }
